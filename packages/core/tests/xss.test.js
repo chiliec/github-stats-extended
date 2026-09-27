@@ -354,6 +354,7 @@ describe("XSS prevention - gist API", () => {
     "show_owner",
     "browser_rendering",
     "hide_border",
+    "disable_animations",
     "title_color_light",
     "icon_color_light",
     "text_color_light",
