@@ -297,6 +297,7 @@ describe("XSS prevention - pin API", () => {
     "border_radius",
     "border_color",
     "description_lines_count",
+    "disable_animations",
     "title_color_light",
     "icon_color_light",
     "text_color_light",
